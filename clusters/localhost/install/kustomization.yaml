@@ -10,3 +10,6 @@ labels:
 
 resources:
   - ../../../apps/mhx-ambulance-ufe
+
+components:
+  - ../../../components/version-developers
