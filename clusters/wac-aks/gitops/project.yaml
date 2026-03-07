@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: mhx-ambulance-wl
+spec:
+  title: "Zoznam čakajúcich mhx"
+  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "Miro Hudak"
+  azureLink: "https://mhx-ambulance.azurewebsites.net"
+  frontendRepoUrl: "https://github.com/mirohudak/ambulance-ufe"
+  backendRepoUrl: ""
+  gitopsRepoUrl: "https://github.com/mirohudak/ambulance-gitops"
